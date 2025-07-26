@@ -17,11 +17,11 @@ RideWave consists of **4 integrated applications** that work together to provide
 
 ---
 ### App User
-<img width="1631" height="506" alt="driver" src="https://github.com/user-attachments/assets/14effd44-6319-4c09-bd9e-ab32b68cec4f" />
+<img width="1763" height="493" alt="user" src="https://github.com/user-attachments/assets/a998dfd0-f3af-4254-974b-7816ea5f2877" />
 
 ---
 ### App Driver
-<img width="1763" height="493" alt="user" src="https://github.com/user-attachments/assets/ca740715-ab79-4353-abb5-4d4bb772645f" />
+<img width="1631" height="506" alt="driver" src="https://github.com/user-attachments/assets/8e0225c3-87d3-47d9-bd89-25532ef05252" />
 
 ---
 
