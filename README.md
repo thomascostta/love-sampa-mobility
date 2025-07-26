@@ -268,3 +268,15 @@ This project was developed for educational and portfolio purposes.
 6. **Start all services** using the commands above
 
 For detailed setup instructions and troubleshooting, please refer to individual project directories.
+
+</br>
+
+### By
+Edition made with ❤️ by Thomas Costa 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/thomasjeffcosta/) 
+[![Gmail Badge](https://img.shields.io/badge/-thomas.jeffcosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas.jeffcosta@gmail.com)](mailto:thomas.jeffcosta@gmail.com)
+
+
+
+
