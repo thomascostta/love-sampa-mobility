@@ -1,6 +1,10 @@
 # 🚗 RideWave - Complete Transportation App
 
-A complete urban transportation app built with React Native, Node.js, and WebSockets, offering a robust solution for passengers and drivers. The project's goal was to further explore React Native with Expo and the backend with Node.js. The project lacks some tweaks, such as improved typing, new endpoints integrating the entire project ecosystem, and improvements to the layout of both apps. However, the time I spent studying it was very rewarding.
+ I’m excited to present the Love Sampa ridewave mobility project I developed for mobile using React Native with Expo, and on the back end with Node.js. The project simulates a full-featured urban transportation app, with a strong focus on delivering a realistic experience for both passengers and drivers.
+
+### 🎯 Objective
+ Although I work professionally in the mobile/front-end world, I decided to have some fun with full-stack development in this project, using Node.js for the back-end, integrating external APIs (Google Maps, Twilio), real-time communication with WebSocket, and a scalable architecture.
+There’s still room for improvement—like stricter typing, a sneaky any here and another one there, a few hardcoded values and mocks, endpoint and layout tweaks, and proper test coverage. Even so, the learning experience was huge and truly rewarding.
 
 ## 📱 Project Overview
 
